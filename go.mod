@@ -1,3 +1,3 @@
-module github.com/SGSI/WorkerQueue
+module github.com/SGSI/workerqueue
 
 go 1.19

@@ -1,8 +1,8 @@
-package queue
+package workerqueue
 
 import (
 	"fmt"
-	"github.com/SGSI/WorkerQueue/worker"
+	"github.com/SGSI/workerqueue/worker"
 	"sync"
 	"time"
 )
