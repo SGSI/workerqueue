@@ -2,9 +2,9 @@ package queue
 
 import (
 	"fmt"
+	"github.com/SGSI/WorkerQueue/worker"
 	"sync"
 	"time"
-	"github.com/SGSI/WorkerQueue/worker"
 )
 
 var dequeueMutex = &sync.Mutex{}
