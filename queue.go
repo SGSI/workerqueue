@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"sync"
 	"time"
-	"workerqueue/worker"
+	"github.com/SGSI/WorkerQueue/worker"
 )
 
 var dequeueMutex = &sync.Mutex{}
