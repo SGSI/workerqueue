@@ -5,7 +5,7 @@ WorkerQueue is a package to create P workers to perform Q tasks from the Queue o
 ## Install
 
 ```sh
-go get -u github.com/gorilla/mux
+go get -u github.com/SGSI/workerqueue
 ```
 
 ## Example
